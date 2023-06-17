@@ -1,0 +1,43 @@
+# Pandreamonium app + base from youtube proyect
+accelerate==0.20.3
+#certifi==2023.5.7
+#charset-normalizer==3.1.0
+#colorama==0.4.6
+#customtkinter==5.1.3
+#darkdetect==0.8.0
+deep_translator==1.11.1
+diffusers==0.17.1
+#filelock==3.9.0
+ftfy==6.1.1
+gradio==3.35.2
+#huggingface-hub==0.15.1
+#idna==3.4
+#importlib-metadata==6.6.0
+keybert==0.7.0
+keyphrase_vectorizers==0.0.11
+nltk==3.8.1
+numpy==1.25.0
+#packaging==23.1
+Pillow==9.5.0
+#pipreqs==0.4.13 # python -m  pipreqs.pipreqs .  
+#pyparsing==3.0.9
+#PyYAML==6.0
+#regex==2023.6.3
+requests==2.31.0
+scipy==1.10.1
+sentencepiece==0.1.99
+spacy==3.5.3
+spacy-transformers==1.2.5
+SPARQLWrapper==2.0.0
+#tk==0.1.0
+#tokenizers==0.13.3
+##torch==2.0.0+cu118 #2.0.1+cu118
+##torchaudio==2.0.2+cu118
+##torchvision==0.15.1+cu118 #0.15.2+cu118
+tqdm==4.65.0
+transformers==4.30.2
+#typing_extensions
+#urllib3==2.0.3
+wordcloud==1.9.2
+xformers==0.0.17rc482
+#zipp==3.15.0
